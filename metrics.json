@@ -1,0 +1,32 @@
+{
+  "v1_naive_momentum": {
+    "annualised_return": -0.0765,
+    "annualised_vol": 0.7431,
+    "sharpe_ratio": -0.157,
+    "max_drawdown": -0.8977,
+    "hit_rate_daily": 0.497,
+    "annual_turnover": 11.055,
+    "t_stat_daily_excess_vs_bench": -2.538,
+    "info_ratio_vs_bench": -1.092
+  },
+  "v2_momentum_plus_trend_filter": {
+    "annualised_return": 0.1077,
+    "annualised_vol": 0.4895,
+    "sharpe_ratio": 0.138,
+    "max_drawdown": -0.5384,
+    "hit_rate_daily": 0.2563,
+    "annual_turnover": 14.946,
+    "t_stat_daily_excess_vs_bench": -1.359,
+    "info_ratio_vs_bench": -0.585
+  },
+  "benchmark_equal_weight": {
+    "annualised_return": 0.3557,
+    "annualised_vol": 0.7562,
+    "sharpe_ratio": 0.417,
+    "max_drawdown": -0.8187,
+    "hit_rate_daily": 0.5254,
+    "annual_turnover": 0.0,
+    "t_stat_daily_excess_vs_bench": NaN,
+    "info_ratio_vs_bench": NaN
+  }
+}
